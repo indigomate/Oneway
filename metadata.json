@@ -1,0 +1,6 @@
+{
+  "name": "OneWave — Streetwear & Technical Apparel",
+  "description": "Official brand platform for OneWave. Heavyweight oversized tees, contrast-piped hoodies, and brutalist streetwear engineered in solid black and neutral tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
